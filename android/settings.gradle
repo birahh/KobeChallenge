@@ -1,0 +1,3 @@
+rootProject.name = 'KobeChallenge'
+
+include ':app'
